@@ -25,7 +25,7 @@ Esse é um repositorio que contém a automação de alguns testes WEB de um soft
 - E utilizamos as anotações After Each para evitar redundancia e reduzir o uso de codigo
 - A versão do WebDrive foi a do navegador da Microsoft o EDGE
 - Usamos CssSelector para selecionar botões ou caixas dentro da pagina WEB
-- E utilizamos XPATH para diferenciar um botão do outro para que o teste automatizado nao falhasse 
+- E utilizamos XPATH para diferenciar um botão do outro para que o teste automatizado nao falhasse
 - Armazenamos os comandos de Selecionar o espaço e Clickar com PageObjects
 - Nesse projeto fazemos uso do JUnit 5, o que nos dá a possibilidade de usar a anotação DisplayName para dar descrições em português para nossos testes.
 - Selennium + WebDrive para "Dirigir" os testes 
